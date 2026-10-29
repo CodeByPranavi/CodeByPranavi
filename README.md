@@ -79,16 +79,25 @@
 <img src="https://komarev.com/ghpvc/?username=CodeByPranavi&label=PROFILE%20VIEWS&color=229ED1&style=for-the-badge" width="250"/>
 </div>
 <h2 align="center">📊 GitHub Stats</h2>
+
 <div align="center">
 
-<img height="169em" src="https://github-readme-streak-stats-eight.vercel.app/?user=gokulggopi2007&theme=radical" alt="GitHub Streak"/>
-<img height="169em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gokulggopi2007&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
-<img height="169em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gokulggopi2007&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="gokulggopi2007's GitHub Stats" />
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gokulggopi2007&theme=radical">
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gokulggopi2007&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gokulggopi2007&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gokulggopi2007&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gokulggopi2007&theme=radical&utcOffset=5.5">
+<img height="169em" src="https://github-readme-streak-stats-eight.vercel.app/?user=CodeByPranavi&theme=radical" alt="Pranavi's GitHub Streak"/>
+
+<img height="169em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CodeByPranavi&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Pranavi's Top Languages"/>
+
+<img height="169em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CodeByPranavi&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="Pranavi's GitHub Stats"/>
+
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeByPranavi&theme=radical" alt="GitHub Profile Details"/>
+
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CodeByPranavi&theme=radical" alt="GitHub Statistics"/>
+
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CodeByPranavi&theme=radical" alt="Languages by Repository"/>
+
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CodeByPranavi&theme=radical" alt="Most Used Commit Languages"/>
+
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CodeByPranavi&theme=radical&utcOffset=5.5" alt="Productive Time"/>
+
 </div>
 <h2 data-importer="text" align="center">🐍 Contribution Snake</h2>
 <p align="center">
