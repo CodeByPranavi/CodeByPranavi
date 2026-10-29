@@ -5,7 +5,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,50:6A5ACD,100:8A2BE2&height=250&section=header&text=PRANAVI%20S&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Cyber+Security+Enthusiast;Full+Stack+Developer;AI+Explorer;Hackathon+Participant;Future+Cyber+Security+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=8A2BE2&center=true&vCenter=true&width=900&lines=;Full+Stack+Developer;AI+Explorer;Hackathon+Participant;" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/B.E.%20(Computer%20Science%20Engineering)-6A5ACD?style=for-the-badge"/><br>
