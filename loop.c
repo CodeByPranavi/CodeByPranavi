@@ -1,0 +1,12 @@
+//Check Even or Odd Number
+//Write a C program to check whether a given integer is even or odd.
+
+#include<stdio.h>
+int main(){
+    int n;
+    if(n%2==0)
+      printf("Even");
+    else
+       printf("odd");
+    return 0;
+}
